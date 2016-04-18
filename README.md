@@ -2,7 +2,7 @@
 
 ## Installation
 
-     npm install el
+     npm install node-el
      
 ## Usage
      
