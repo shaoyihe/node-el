@@ -1,12 +1,28 @@
 {
   "name": "el",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "el for json",
+  "keywords": [
+    "node-el",
+    "json"
+  ],
+  "bugs": {
+    "url": "https://github.com/shaoyihe/node-el/issues",
+    "email": "wubuqilai@gmail.com"
+  },
   "main": "./lib/el",
   "scripts": {
     "test": "mocha test/*.js"
   },
-  "author": "heshaoyi",
+  "author": {
+    "name": "shaoyihe",
+    "email": "wubuqilai@gmail.com",
+    "url": "http://shaoyihe.github.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaoyihe/node-el"
+  },
   "license": "MIT",
   "devDependencies": {
     "mocha": "^2.4.5",
